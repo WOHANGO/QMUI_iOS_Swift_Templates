@@ -11,9 +11,9 @@ cd /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Develo
 
 将项目拉取下来，并命名为 `QMUI Swift Class.xctemplate`（文件夹名自由定义，后缀名不可变），注意这个目录是系统目录，需要 root 权限才能修改，所以所有 git 命令都需要加 `sudo`。
 ```bash
-sudo git clone https://github.com/QMUI/QMUI_iOS_Templates.git QMUI\ Class.xctemplate
+sudo git clone https://github.com/WOHANGO/QMUI_iOS_Swift_Templates.git QMUI\ Swift\ Class.xctemplate
 ```
 
 无需重启 Xcode，直接新建文件，即可看到“QMUI Class”的模板可供选择。
 
-![](https://cloud.githubusercontent.com/assets/1190261/24793746/c1dff3e2-1bb5-11e7-985d-518c3cd9bcf7.png)
+![](https://user-images.githubusercontent.com/20496270/105622653-2cfa6700-5e4e-11eb-8ab1-b96158c076e6.png)
