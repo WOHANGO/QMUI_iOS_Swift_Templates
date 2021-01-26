@@ -49,8 +49,12 @@ class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
         super.setupNavigationItems()
         self.title = "<##>"
     }
-    
-    // MARK:<QMUITableViewDataSource, QMUITableViewDelegate>
+
+}
+
+// MARK:<QMUITableViewDataSource, QMUITableViewDelegate>
+
+extension ___FILEBASENAMEASIDENTIFIER___ {
     
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return 0
