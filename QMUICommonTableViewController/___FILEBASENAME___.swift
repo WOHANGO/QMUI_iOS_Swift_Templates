@@ -52,7 +52,7 @@ class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
 
 }
 
-// MARK:<QMUITableViewDataSource, QMUITableViewDelegate>
+// MARK: - <QMUITableViewDataSource, QMUITableViewDelegate>
 
 extension ___FILEBASENAMEASIDENTIFIER___ {
     
